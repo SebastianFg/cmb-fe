@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Argentina",
+    "iso_code": "AR"
+  },
+  {
+    "id": 2,
+    "name": "Boliviana",
+    "iso_code": "BO"
+  },
+  {
+    "id": 3,
+    "name": "Brasileña",
+    "iso_code": "BR"
+  },
+  {
+    "id": 4,
+    "name": "Chilena",
+    "iso_code": "CL"
+  },
+  {
+    "id": 5,
+    "name": "Paraguaya",
+    "iso_code": "PY"
+  },
+  {
+    "id": 6,
+    "name": "Peruana",
+    "iso_code": "PE"
+  },
+  {
+    "id": 7,
+    "name": "Uruguaya",
+    "iso_code": "UY"
+  },
+  {
+    "id": 8,
+    "name": "Venezolana",
+    "iso_code": "VE"
+  },
+  {
+    "id": 9,
+    "name": "Otra",
+    "iso_code": null
+  }
+]

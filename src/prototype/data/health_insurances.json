@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Particular",
+    "plan": ""
+  },
+  {
+    "id": 2,
+    "name": "OSDE",
+    "plan": "210"
+  },
+  {
+    "id": 3,
+    "name": "OSDE",
+    "plan": "310"
+  },
+  {
+    "id": 4,
+    "name": "Swiss Medical",
+    "plan": "SMG02"
+  },
+  {
+    "id": 5,
+    "name": "Swiss Medical",
+    "plan": "SMG20"
+  },
+  {
+    "id": 6,
+    "name": "Galeno",
+    "plan": "Azul"
+  },
+  {
+    "id": 7,
+    "name": "Galeno",
+    "plan": "Plata"
+  },
+  {
+    "id": 8,
+    "name": "IOMA",
+    "plan": ""
+  },
+  {
+    "id": 9,
+    "name": "PAMI",
+    "plan": ""
+  },
+  {
+    "id": 10,
+    "name": "IPS",
+    "plan": ""
+  }
+]

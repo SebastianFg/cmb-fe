@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "user_id": 3,
+    "title": "Dra.",
+    "first_name": "Paula",
+    "last_name": "Aguirre",
+    "license_number": "M.N. 112.045",
+    "specialty_ids": [1]
+  },
+  {
+    "id": 2,
+    "user_id": 4,
+    "title": "Dr.",
+    "first_name": "Andrés",
+    "last_name": "Paz",
+    "license_number": "M.N. 104.388",
+    "specialty_ids": [1]
+  },
+  {
+    "id": 3,
+    "user_id": 5,
+    "title": "Dr.",
+    "first_name": "Hernán",
+    "last_name": "Vidal",
+    "license_number": "M.N. 99.512",
+    "specialty_ids": [2]
+  },
+  {
+    "id": 4,
+    "user_id": 6,
+    "title": "Dr.",
+    "first_name": "Marcos",
+    "last_name": "Iriarte",
+    "license_number": "M.N. 87.230",
+    "specialty_ids": [3]
+  },
+  {
+    "id": 5,
+    "user_id": 7,
+    "title": "Dra.",
+    "first_name": "Lucía",
+    "last_name": "Márquez",
+    "license_number": "M.N. 121.907",
+    "specialty_ids": [4]
+  },
+  {
+    "id": 6,
+    "user_id": 8,
+    "title": "Dr.",
+    "first_name": "Fabián",
+    "last_name": "Cabral",
+    "license_number": "M.N. 96.774",
+    "specialty_ids": [6]
+  },
+  {
+    "id": 7,
+    "user_id": 9,
+    "title": "Dra.",
+    "first_name": "Verónica",
+    "last_name": "Lima",
+    "license_number": "M.N. 128.310",
+    "specialty_ids": [7]
+  },
+  {
+    "id": 8,
+    "user_id": 10,
+    "title": "Dra.",
+    "first_name": "Carolina",
+    "last_name": "Ruiz",
+    "license_number": "M.N. 115.662",
+    "specialty_ids": [5]
+  },
+  {
+    "id": 9,
+    "user_id": 11,
+    "title": "Lic.",
+    "first_name": "Tomás",
+    "last_name": "Giménez",
+    "license_number": "M.N. 8.421",
+    "specialty_ids": [8]
+  }
+]

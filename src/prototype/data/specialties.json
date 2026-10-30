@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Clínica médica",
+    "description": "Controles de salud, chequeos anuales y derivaciones."
+  },
+  {
+    "id": 2,
+    "name": "Pediatría",
+    "description": "Atención de niñas, niños y adolescentes hasta los 16 años."
+  },
+  {
+    "id": 3,
+    "name": "Cardiología",
+    "description": "Consultas, control de presión y evaluación prequirúrgica."
+  },
+  {
+    "id": 4,
+    "name": "Dermatología",
+    "description": "Control de lunares, acné y afecciones de la piel."
+  },
+  {
+    "id": 5,
+    "name": "Ginecología",
+    "description": "Controles anuales y seguimiento ginecológico."
+  },
+  {
+    "id": 6,
+    "name": "Traumatología",
+    "description": "Lesiones, dolores articulares y aptos físicos."
+  },
+  {
+    "id": 7,
+    "name": "Oftalmología",
+    "description": "Control visual, fondo de ojo y receta de anteojos."
+  },
+  {
+    "id": 8,
+    "name": "Nutrición",
+    "description": "Planes de alimentación y seguimiento de peso."
+  }
+]

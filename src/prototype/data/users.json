@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Roberto Fernandes",
+    "short_name": "R. Fernandes",
+    "email": "admin@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [1]
+  },
+  {
+    "id": 2,
+    "name": "Claudia Molina",
+    "short_name": "C. Molina",
+    "email": "recepcion@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [2]
+  },
+  {
+    "id": 3,
+    "name": "Paula Aguirre",
+    "short_name": "Dra. P. Aguirre",
+    "email": "paguirre@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 4,
+    "name": "Andrés Paz",
+    "short_name": "Dr. A. Paz",
+    "email": "apaz@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 5,
+    "name": "Hernán Vidal",
+    "short_name": "Dr. H. Vidal",
+    "email": "hvidal@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 6,
+    "name": "Marcos Iriarte",
+    "short_name": "Dr. M. Iriarte",
+    "email": "miriarte@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 7,
+    "name": "Lucía Márquez",
+    "short_name": "Dra. L. Márquez",
+    "email": "lmarquez@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 8,
+    "name": "Fabián Cabral",
+    "short_name": "Dr. F. Cabral",
+    "email": "fcabral@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 9,
+    "name": "Verónica Lima",
+    "short_name": "Dra. V. Lima",
+    "email": "vlima@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 10,
+    "name": "Carolina Ruiz",
+    "short_name": "Dra. C. Ruiz",
+    "email": "cruiz@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  },
+  {
+    "id": 11,
+    "name": "Tomás Giménez",
+    "short_name": "Lic. T. Giménez",
+    "email": "tgimenez@cmbelgrano.com.ar",
+    "password": "turnos2026",
+    "role_ids": [3]
+  }
+]

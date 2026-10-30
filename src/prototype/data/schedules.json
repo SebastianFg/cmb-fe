@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "professional_id": 1,
+    "specialty_id": 1,
+    "room_id": 1,
+    "weekday": 1,
+    "start_time": "08:00",
+    "end_time": "13:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 2,
+    "professional_id": 1,
+    "specialty_id": 1,
+    "room_id": 1,
+    "weekday": 3,
+    "start_time": "08:00",
+    "end_time": "13:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 3,
+    "professional_id": 1,
+    "specialty_id": 1,
+    "room_id": 1,
+    "weekday": 5,
+    "start_time": "08:00",
+    "end_time": "13:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 4,
+    "professional_id": 2,
+    "specialty_id": 1,
+    "room_id": 1,
+    "weekday": 2,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 5,
+    "professional_id": 2,
+    "specialty_id": 1,
+    "room_id": 1,
+    "weekday": 4,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 6,
+    "professional_id": 2,
+    "specialty_id": 1,
+    "room_id": 1,
+    "weekday": 1,
+    "start_time": "14:00",
+    "end_time": "18:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 7,
+    "professional_id": 3,
+    "specialty_id": 2,
+    "room_id": 4,
+    "weekday": 1,
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 8,
+    "professional_id": 3,
+    "specialty_id": 2,
+    "room_id": 4,
+    "weekday": 2,
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 9,
+    "professional_id": 3,
+    "specialty_id": 2,
+    "room_id": 4,
+    "weekday": 3,
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 10,
+    "professional_id": 3,
+    "specialty_id": 2,
+    "room_id": 4,
+    "weekday": 4,
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 11,
+    "professional_id": 3,
+    "specialty_id": 2,
+    "room_id": 4,
+    "weekday": 5,
+    "start_time": "09:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 12,
+    "professional_id": 4,
+    "specialty_id": 3,
+    "room_id": 2,
+    "weekday": 1,
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 13,
+    "professional_id": 4,
+    "specialty_id": 3,
+    "room_id": 2,
+    "weekday": 3,
+    "start_time": "10:00",
+    "end_time": "13:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 14,
+    "professional_id": 4,
+    "specialty_id": 3,
+    "room_id": 2,
+    "weekday": 4,
+    "start_time": "15:00",
+    "end_time": "18:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 15,
+    "professional_id": 5,
+    "specialty_id": 4,
+    "room_id": 5,
+    "weekday": 1,
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "slot_duration_minutes": 20
+  },
+  {
+    "id": 16,
+    "professional_id": 5,
+    "specialty_id": 4,
+    "room_id": 5,
+    "weekday": 2,
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "slot_duration_minutes": 20
+  },
+  {
+    "id": 17,
+    "professional_id": 5,
+    "specialty_id": 4,
+    "room_id": 5,
+    "weekday": 4,
+    "start_time": "11:00",
+    "end_time": "14:00",
+    "slot_duration_minutes": 20
+  },
+  {
+    "id": 18,
+    "professional_id": 6,
+    "specialty_id": 6,
+    "room_id": 3,
+    "weekday": 2,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 19,
+    "professional_id": 6,
+    "specialty_id": 6,
+    "room_id": 3,
+    "weekday": 3,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 20,
+    "professional_id": 6,
+    "specialty_id": 6,
+    "room_id": 3,
+    "weekday": 5,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 21,
+    "professional_id": 6,
+    "specialty_id": 6,
+    "room_id": 3,
+    "weekday": 6,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 22,
+    "professional_id": 7,
+    "specialty_id": 7,
+    "room_id": 6,
+    "weekday": 1,
+    "start_time": "14:00",
+    "end_time": "18:00",
+    "slot_duration_minutes": 20
+  },
+  {
+    "id": 23,
+    "professional_id": 7,
+    "specialty_id": 7,
+    "room_id": 6,
+    "weekday": 4,
+    "start_time": "14:00",
+    "end_time": "18:00",
+    "slot_duration_minutes": 20
+  },
+  {
+    "id": 24,
+    "professional_id": 8,
+    "specialty_id": 5,
+    "room_id": 7,
+    "weekday": 2,
+    "start_time": "14:00",
+    "end_time": "18:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 25,
+    "professional_id": 8,
+    "specialty_id": 5,
+    "room_id": 7,
+    "weekday": 5,
+    "start_time": "14:00",
+    "end_time": "18:00",
+    "slot_duration_minutes": 30
+  },
+  {
+    "id": 26,
+    "professional_id": 9,
+    "specialty_id": 8,
+    "room_id": 8,
+    "weekday": 3,
+    "start_time": "15:00",
+    "end_time": "19:00",
+    "slot_duration_minutes": 40
+  },
+  {
+    "id": 27,
+    "professional_id": 9,
+    "specialty_id": 8,
+    "room_id": 8,
+    "weekday": 6,
+    "start_time": "09:00",
+    "end_time": "12:20",
+    "slot_duration_minutes": 40
+  }
+]

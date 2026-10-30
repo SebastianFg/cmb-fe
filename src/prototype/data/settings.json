@@ -1,0 +1,15 @@
+{
+  "center_name": "Centro Médico Belgrano",
+  "address": "Av. Cabildo 2340, piso 2",
+  "city": "Belgrano, Ciudad de Buenos Aires",
+  "phone": "(0376) 400-0000",
+  "email": "turnos@cmbelgrano.com.ar",
+  "medical_director": "Dr. A. Sarmiento, M.N. 84.320",
+  "opening_hours": ["Lunes a viernes de 8 a 20 h", "Sábados de 8 a 13 h"],
+  "timezone": "America/Argentina/Buenos_Aires",
+  "cancellation_window_minutes": 1440,
+  "cancellation_penalty_days": 7,
+  "reminder_lead_minutes": 1440,
+  "no_show_alert_threshold": 8,
+  "booking_horizon_days": 30
+}

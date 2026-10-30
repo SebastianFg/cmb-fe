@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "label": "Administrador",
+    "permissions": [
+      "dashboard.view",
+      "agenda.view",
+      "appointments.create",
+      "appointments.cancel",
+      "appointments.attendance",
+      "patients.create",
+      "agenda.block"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "reception",
+    "label": "Recepción",
+    "permissions": [
+      "dashboard.view",
+      "agenda.view",
+      "appointments.create",
+      "appointments.attendance",
+      "patients.create"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "professional",
+    "label": "Profesional",
+    "permissions": [
+      "dashboard.view",
+      "agenda.view",
+      "appointments.cancel",
+      "appointments.attendance",
+      "agenda.block"
+    ]
+  }
+]

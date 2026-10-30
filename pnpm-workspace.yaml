@@ -1,0 +1,10 @@
+allowBuilds:
+  "@parcel/watcher": false
+  "@swc/core": true
+  "@tailwindcss/oxide": true
+  core-js: true
+  esbuild: true
+  unrs-resolver: true
+overrides:
+  form-data: ">=4.0.6"
+  yaml: ">=1.10.3"

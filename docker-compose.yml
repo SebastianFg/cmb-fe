@@ -1,0 +1,17 @@
+services:
+  cmb-fe:
+    image: node:24.22.1-alpine
+    container_name: cmb-fe
+    ports:
+      - "3000:3000"
+    volumes:
+      - ".:/app"
+      - "/app/node_modules"
+    working_dir: /app
+    env_file:
+      - .env
+    environment:
+      - NODE_ENV=development
+      - VITE_APP_PORT=3000
+      - HMR_HOST=${HMR_HOST:-}
+    command: sh -c 'corepack enable && pnpm install --frozen-lockfile --ignore-scripts && pnpm dev'

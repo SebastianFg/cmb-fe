@@ -1,0 +1,10 @@
+export const CACHE_TIMES = {
+  LIST_STALE: 30_000,
+  LIST_GC: 5 * 60_000,
+
+  SELECT_STALE: 10 * 60_000,
+  SELECT_GC: 15 * 60_000,
+
+  DETAIL_STALE: 60_000,
+  DETAIL_GC: 5 * 60_000,
+} as const;
