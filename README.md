@@ -189,7 +189,7 @@ todavía no verifica contra Google.
 
 `docker compose exec cmb-api php artisan db:seed` en `cmb-be` crea una cuenta
 por rol, todas con la misma contraseña (`SEED_ACCOUNT_PASSWORD`, por defecto
-`Belgrano#2026$Seg`):
+`Belgrano2026#`):
 
 | Correo | Rol |
 | --- | --- |
