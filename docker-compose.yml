@@ -10,3 +10,9 @@ services:
     environment:
       - NODE_ENV=development
     restart: unless-stopped
+    networks:
+      - cmb-fe-network
+
+networks:
+  cmb-fe-network:
+    driver: bridge
