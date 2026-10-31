@@ -1,7 +1,8 @@
 /// <reference types="vite/client" />
 
 interface ImportMetaEnv {
-  readonly VITE_APP_PORT: string;
+  /** Sólo para el servidor de desarrollo; no llega al navegador. */
+  readonly VITE_APP_PORT?: string;
   readonly VITE_PUBLIC_ENVIRONMENT: string;
   readonly VITE_PUBLIC_PROJECT_SHORT_NAME: string;
   readonly VITE_PUBLIC_APP_VERSION: string;
