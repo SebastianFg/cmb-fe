@@ -108,6 +108,24 @@ app falla al arrancar con el listado de claves a revisar.
 del código importa `envConfig`. Lo verifica `check-no-direct-env.mjs` dentro de
 `pnpm lint`.
 
+### Se resuelven al compilar
+
+Vite **incrusta** las `VITE_*` en el bundle cuando corre `pnpm build`: no las
+lee al arrancar. Un `.env` junto a los archivos ya servidos no hace nada, y un
+build sin `.env` termina bien pero deja la app pidiendo las claves en el
+navegador. Las variables tienen que estar presentes en el momento de compilar.
+
+Con Docker el `.env` queda fuera del contexto de build por `.dockerignore`, así
+que viajan como argumentos: `docker-compose.yml` las interpola del `.env` del
+host y el `Dockerfile` las recibe con `ARG`. Para construir a mano:
+
+```bash
+docker build --build-arg VITE_API_URL=https://mi-api/api/v1 -t cmb-fe .
+```
+
+Si `VITE_API_URL` falta, el build falla a propósito en lugar de generar una
+imagen que recién se rompe en el navegador.
+
 ## Autenticación
 
 Sesión por **token personal de Laravel Sanctum** (RF-02). El token se guarda en
