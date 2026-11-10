@@ -47,7 +47,7 @@ const PortalShell = () => {
   }, [isMenuOpen]);
 
   return (
-    <div className="flex min-h-screen flex-col bg-ground pb-19 md:pb-0">
+    <div className="flex min-h-screen flex-col bg-ground pb-[calc(4.75rem+env(safe-area-inset-bottom))] md:pb-0">
       <header className="sticky top-0 z-20 border-b border-line bg-surface print:hidden">
         <div
           ref={containerRef}
