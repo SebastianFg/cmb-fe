@@ -34,7 +34,8 @@ const Tabbar = ({ items, accountTab }: TabbarProps) => (
     aria-label="Secciones del portal"
     className={clsx(
       'fixed inset-x-0 bottom-0 z-20 flex border-t border-line bg-surface print:hidden',
-      'md:static md:order-first md:justify-center md:gap-2 md:border-b md:border-t-0',
+      'pb-[env(safe-area-inset-bottom)]',
+      'md:static md:order-first md:justify-center md:gap-2 md:border-b md:border-t-0 md:pb-0',
     )}
   >
     {items.map((item) => (
